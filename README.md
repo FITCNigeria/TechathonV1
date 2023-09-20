@@ -1,5 +1,6 @@
 # TechathonV1
-Certainly! Creating a GitHub About and Guidelines page for your hackathon is a great way to communicate important information to participants. Here's a suggested structure and some sample content to get you started:
+Hey there, 
+Welcome to version 1 of the Techathon (Say no to hachatons) event run by FITC. See below for detailed guidelines as you begin the hacking process. Don't forget to ask your questions in the Telegram chat if you encounter any difficulties. Wish you all the best!
 
 ## Hackathon Theme
 ![image](https://github.com/FITCNigeria/TechathonV1/assets/26925037/0293e522-35df-4545-a60d-6e16fc03199c)
