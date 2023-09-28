@@ -1,6 +1,6 @@
 # TechathonV1
 Hey there, 
-Welcome to version 1 of the Techathon (Say no to hachatons) event run by FITC. See below for detailed guidelines as you begin the hacking process. Don't forget to ask your questions in the Telegram chat if you encounter any difficulties. Wish you all the best!
+Welcome to version 1 of the Techathon (Say no to hackathons) event run by FITC. See below for detailed guidelines as you begin the hacking process. Don't forget to ask your questions in the Telegram chat if you encounter any difficulties. Wish you all the best!
 
 ## Hackathon Theme
 ![image](https://github.com/FITCNigeria/TechathonV1/assets/26925037/0293e522-35df-4545-a60d-6e16fc03199c)
@@ -14,19 +14,56 @@ Welcome to version 1 of the Techathon (Say no to hachatons) event run by FITC. S
 - **Date and Time:** October 3rd, 2023. 9:00am (GMT +1).
 ### Prizes
 - **Prizes:** List the prizes that participants can win. Be specific about the rewards for the top teams or individuals.
-- **Judging Criteria:** Explain how projects will be evaluated and the criteria judges will use to select winners.
+- **Judging Criteria:**
+
+**1. Innovation (Weight: 30%):​**
+
+**Originality:** How unique and novel is the solution compared to existing technologies or approaches?​
+**Creativity:** Does the solution demonstrate creative thinking in addressing the specified challenge?​
+
+**2. Impact (Weight: 25%):​**
+
+**Environmental/Social Impact:** What potential positive impact does the solution have on the environment, society, or the specified domain (e.g., agriculture, health)?​
+**Scalability:** Can the solution be scaled up to benefit a larger population or address a broader problem?​
+**Feasibility:** How feasible is it to implement the solution in real-world settings?​
+
+**3. Technical Excellence (Weight: 25%):​**
+
+**Technical Implementation:** How well is the technology stack used to build the solution? Is it efficient and well-optimized?​
+**Data Utilization:** If applicable, how effectively does the solution handle and utilize data?​
+**Integration:** How well does the solution integrate with other systems or technologies?​
+
+**4. Presentation and Communication (Weight: 20%)**:​
+
+**Clarity:** How well did the team communicate their solution, including its purpose, features, and potential impact?​
+**Visuals:** Were the presentation materials (slides, demo, documentation) clear, visually appealing, and well-organized?​
 
 ### Eligibility
-- **Who Can Participate:** Mention whether the hackathon is open to individuals, teams, students, or professionals. Specify any age restrictions if applicable.
-- **Registration:** Explain how participants can register for the hackathon and any associated fees, if applicable.
+- **Who Can Participate:** The FITC Techathon Challenge is open to undergraduates from all tertiary institutions in Africa as well as fresh graduates, young developers, etc. We are calling on young people who are programmers, graphic and web designers with creative and innovative minds to come together in this collaborative process.​
 
-### Rules and Guidelines
-- **Team Formation:** Describe how teams can be formed, including team size limits (if any).
-- **Code of Conduct:** Emphasize the importance of respectful and ethical behavior during the event. Provide a link to your full code of conduct if you have one.
-- **Project Requirements:** Outline any specific requirements for the projects, such as using certain technologies or APIs.
-- **Submission Deadline:** Specify the deadline for project submissions and how they should be submitted.
-- **Intellectual Property:** Clarify any ownership or licensing terms for the projects developed during the hackathon.
-- **Code Review:** Mention whether code quality and ethics will be reviewed as part of the judging process.
+**Demographic​s**
+•Generation Z:  18-24 years old​
+•Millennials:  25 - 38 years old​
+•Others​
+•Male & Female​
+- **Registration:**
+
+**Project Proposal:** Teams should submit project proposals on the Techathon website, outlining their idea, goals, and approach. Those without teams can apply as individuals, who will ultimately be paired later.​
+
+**Development Phase:** Techathon participants have 7 days to work on their projects. These projects will be forked from the forked Github repository, and will determine ultimate submission, tracking and assessment.​
+
+**Presentation to Judges:** Each team will give a 10-minute presentation of their solutions to judges and fellow participants. Be creative but the presentation must include Problem Statement, Solution & Impact.​
+
+**Demo and Documentation:** Along with the presentation, teams should provide a working demo of their solution and comprehensive documentation.​
+
+### General Guidelines
+**Teams:** Participants are encouraged to form interdisciplinary teams to foster diverse perspectives and expertise.​
+
+**Ethical Considerations:** Ethical and responsible innovation is emphasized, considering the social and environmental impacts of the solutions.​
+
+**Open Source:** Open-source development is encouraged, to facilitate knowledge sharing and collaboration.​
+
+**Mentorship:** Mentors are provided for guidance and networking, to ensure impact and relevance of solutions.​
 
 ### Schedule
 - **Event Schedule:** Provide a detailed schedule of the hackathon, including start and end times, key milestones, and any workshops or mentorship sessions.
