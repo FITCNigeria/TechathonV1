@@ -66,8 +66,20 @@ Welcome to version 1 of the Techathon (Say no to hackathons) event run by FITC. 
 **Mentorship:** Mentors are provided for guidance and networking, to ensure impact and relevance of solutions.​
 
 ### Schedule
-- **Event Schedule:** Provide a detailed schedule of the hackathon, including start and end times, key milestones, and any workshops or mentorship sessions.
-- **Team Check-ins:** Mention if there will be periodic check-ins or progress updates required during the hackathon.
+a.	**Marketing Go-Live:** Deadline–19 October 2023.
+
+b.	C**all for applications:** Deadline–19 October 2023.
+
+****There will be a 2-week allowance for call for applications.**
+
+c.	**Close and review of entries:** Deadline–6 November 2023.
+
+d.	**Participants project work**: Deadline–9 November 2023.
+
+e.	**Virtual event demo day**: Deadline–10 November 2023.
+
+f. **Events/awards day**: Deadline–16 November 2023.
+
 
 ### Resources
 - **Tools and Resources:** List the tools, libraries, APIs, and resources that participants may find useful during the hackathon.
